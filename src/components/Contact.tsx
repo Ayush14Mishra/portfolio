@@ -12,7 +12,7 @@ function Contact() {
       form.reportValidity();
       return;
     }
-    setStatus('Add your real email in Contact.tsx to activate message delivery.');
+    setStatus('Message delivery is not connected yet. Please use the GitHub link in the navigation.');
   };
 
   return (
