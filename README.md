@@ -1,17 +1,8 @@
 # Ayush Mishra - Frontend Portfolio
 
-A responsive personal portfolio for showcasing frontend work, learning progress and selected projects.
+A responsive personal portfolio showcasing original frontend work, practical experiments and a transparent learning journey.
 
-## Before publishing
-
-The portfolio includes three project cards. Verify every public link and claim before using it for applications.
-
-1. Connect the contact form to your real email or a static-form provider.
-2. Make the VoiceBank AI repository public or correct its URL.
-3. Confirm the StudyVault description accurately reflects your contribution to the fork.
-4. Add real screenshots or original project artwork.
-5. Remove any skill you cannot comfortably discuss.
-6. Add your verified GitHub and LinkedIn links.
+**Live:** [ayush14mishra.github.io/portfolio](https://ayush14mishra.github.io/portfolio/)
 
 ## Features
 
@@ -21,6 +12,7 @@ The portfolio includes three project cards. Verify every public link and claim b
 - Honest learning journey instead of fabricated employment history
 - Frontend-only implementation suitable for static deployment
 - Original visual system built around Manrope, DM Mono and a lime accent
+- Clear attribution for the MIT-licensed starting template and learning forks
 
 ## Run locally
 
