@@ -1,74 +1,46 @@
-# 🚀 Ayush Mishra Portfolio
+# Ayush Mishra - Frontend Portfolio
 
-A modern and responsive portfolio website showcasing my journey as a Full Stack Developer and AI/ML enthusiast.
+A responsive personal portfolio for showcasing frontend work, learning progress and selected projects.
 
-## 👨‍💻 About Me
+## Before publishing
 
-I am a B.Tech student specializing in Artificial Intelligence & Machine Learning with a strong interest in Full Stack Development, Backend Engineering, and Generative AI. I enjoy building scalable web applications, AI-powered solutions, and solving real-world problems through technology.
+The portfolio includes three project cards. Verify every public link and claim before using it for applications.
 
-## 🛠️ Tech Stack
+1. Connect the contact form to your real email or a static-form provider.
+2. Make the VoiceBank AI repository public or correct its URL.
+3. Confirm the StudyVault description accurately reflects your contribution to the fork.
+4. Add real screenshots or original project artwork.
+5. Remove any skill you cannot comfortably discuss.
+6. Add your verified GitHub and LinkedIn links.
 
-### Frontend
+## Features
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
+- Responsive desktop and mobile layouts
+- Dark and light themes with saved preference
+- Keyboard-accessible navigation and theme control
+- Honest learning journey instead of fabricated employment history
+- Frontend-only implementation suitable for static deployment
+- Original visual system built around Manrope, DM Mono and a lime accent
 
-### Backend
+## Run locally
 
-* Node.js
-* Express.js
+```bash
+npm install
+npm start
+```
 
-### Databases
+## Production build
 
-* MongoDB
-* PostgreSQL
-* MySQL
+```bash
+npm run build
+```
 
-### Programming Languages
+## Deployment
 
-* Python
-* JavaScript
-* C++
+Deploy the generated `build` directory using GitHub Pages, Netlify or Vercel. If using GitHub Pages, add the correct `homepage` URL to `package.json` before running the deployment script.
 
-### Tools
+## Attribution
 
-* Git
-* GitHub
-* Postman
-* VS Code
+This portfolio was adapted from the MIT-licensed [React Portfolio Template](https://github.com/yujisatojr/react-portfolio-template) by Yuji Sato. The content, information architecture and visual design were substantially revised for Ayush Mishra.
 
-## 📂 Featured Projects
-
-### 🤖 AI Voice Assistant
-
-Built an end-to-end voice pipeline using Sarvam STT, PII Redaction, Groq Llama 3.3, and Sarvam TTS with low-latency responses.
-
-### 🎬 Movie Recommendation System
-
-Machine Learning-based recommendation engine using Python, Pandas, and Scikit-learn.
-
-### 🌦️ Weather Web Application
-
-Real-time weather application with API integration built using HTML, CSS, and JavaScript.
-
-### 🎮 Rock Paper Scissors Game
-
-Interactive Python game implementing game logic and random AI move generation.
-
-## 🏆 Achievements
-
-* Participant – Mumbai Hacks
-* Participant – Avalanche Hackathon
-* Active learner in Full Stack Development and AI
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Ayush1405-droid
-* LinkedIn: https://www.linkedin.com/in/ayush-mishra-2956b1348/
-
----
-
-⭐ If you like this project, feel free to fork it and give it a star.
-
+See [LICENSE](./LICENSE) for the original licence.
